@@ -7,7 +7,7 @@
 const respostas = [
     "Sim, você é!",
     "Se você veio até aqui, com certeza é.",
-    "Analizando... 100% chato!",
+    "Analisando... 100% chato!",
     "Totalmente chato.",
     "Se você se chama Luiz então é muito chato, se não se chama, é chato mesmo assim.",
     "Sim, hoje vc é chato (amanhã continuará sendo).", 
